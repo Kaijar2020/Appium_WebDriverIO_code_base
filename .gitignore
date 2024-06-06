@@ -1,0 +1,7 @@
+#List_of_folder Ignore.
+node_modules
+*.vscode
+allure-report
+apk
+
+
