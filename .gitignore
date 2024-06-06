@@ -1,6 +1,6 @@
 #List_of_folder Ignore.
 node_modules
-*.vscode
+.vscode
 allure-report
 apk
 
