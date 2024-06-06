@@ -55,14 +55,11 @@ exports.config = {
         // capabilities for local Appium web tests on an Android Emulator
         platformName: 'Android',
         //browserName: 'Chrome',
-        'appium:deviceName': 'sdk_gphone64_x86_64',
-        'appium:platformVersion': '14.0',
+        'appium:deviceName': 'sdk_gphone64_x86_64', //write your device name.
+        'appium:platformVersion': '14.0', //write your platform version name.
         'appium:automationName': 'UiAutomator2',
-        // 'appium:app' : 'E:\\New_WD_io\\HelloApp\\apk\\Wish_ Shop and Save_24.21.0_APKPure.apk'
-        "appium:appPackage": "com.contextlogic.wish",
-        "appium:appActivity": "com.contextlogic.wish.activity.browse.BrowseActivity"
-        //"appium:appPackage": "com.universalmedicalrecord.applicant_portal_app",
-        //"appium:appActivity": ".MainActivity"  
+        "appium:appPackage": "com.contextlogic.wish", //write your app package name.
+        "appium:appActivity": "com.contextlogic.wish.activity.browse.BrowseActivity"  //write your app activity name.
     }],
 
     //
