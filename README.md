@@ -20,9 +20,6 @@ npx run wdio
 ```
 npm install @wdio/allure-reporter --save-dev
 ```
-```
-npm install @wdio/cli allure-commandline --save-dev
-```
 After run  the project generate report from allure redult
 ```
 allure generate ./allure-results  
