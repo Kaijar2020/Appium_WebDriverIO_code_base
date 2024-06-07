@@ -29,4 +29,5 @@ To run the report
 allure open
 ```
 You will able to see this type of report.
-![image](https://github.com/Kaijar2020/Appium_WebDriverIO_code_base/assets/59390481/3a06e9fb-1c12-4333-b664-8b26f330b51a)]
+
+![image](https://github.com/Kaijar2020/Appium_WebDriverIO_code_base/assets/59390481/3a06e9fb-1c12-4333-b664-8b26f330b51a)
