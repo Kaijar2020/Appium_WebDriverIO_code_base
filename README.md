@@ -13,7 +13,7 @@ npm install
 ```
 Run the project
 ```
-npx eun wdio
+npx run wdio
 ```
 
 #### To Generate Allure report follow the process
